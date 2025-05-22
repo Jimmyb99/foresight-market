@@ -1,0 +1,31 @@
+{
+    "markets": {
+        "Politics": {
+            "updates": [
+                {
+                    "title": "Latest Political Update",
+                    "description": "Recent political development",
+                    "date": "2024-03-21"
+                }
+            ]
+        },
+        "Future Drops": {
+            "updates": [
+                {
+                    "title": "Upcoming Release",
+                    "description": "New product launch details",
+                    "date": "2024-03-22"
+                }
+            ]
+        },
+        "Market News": {
+            "updates": [
+                {
+                    "title": "Market Movement",
+                    "description": "Today's market summary",
+                    "date": "2024-03-21"
+                }
+            ]
+        }
+    }
+} 
